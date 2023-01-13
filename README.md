@@ -1,0 +1,5 @@
+- 👋 Hi, I’m ヽ米 饭
+- 👀 I’m interested in Minecraft
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on Minecraft
+- 📫 How to reach me qq群:1064982471

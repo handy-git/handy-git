@@ -3,7 +3,7 @@
 ***
 
 ### WIKI
-📚 这是我的WIKI：[https://inrhor.hiusers.com/](https://ricedoc.handyplus.cn/#/)
+📚 这是我的WIKI：[https://ricedoc.handyplus.cn/](https://ricedoc.handyplus.cn/#/)
 
 ### I'm ヽ米 饭
 - 💻 生活就是编程，常用java语言

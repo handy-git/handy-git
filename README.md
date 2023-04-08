@@ -16,6 +16,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=handy-git&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ***
-
-### 开源项目
-[![rice-doc](https://github-readme-stats.vercel.app/api/pin/?username=handy-git&theme=shades-of-purple&repo=rice-doc)](https://github.com/handy-git/rice-doc)

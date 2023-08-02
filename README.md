@@ -1,5 +1,7 @@
 ### 正在创作 Minecraft插件 和参与更多开源项目 👋
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=handy-git&locale=zh_CN)
+
 ***
 
 ### WIKI

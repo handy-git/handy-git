@@ -15,6 +15,6 @@
 ***
 
 ### 这是我的数据
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=handy-git&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=handy-git&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true&locale=cn)
 
 ***

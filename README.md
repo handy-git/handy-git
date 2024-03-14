@@ -1,11 +1,8 @@
-### 正在创作 Minecraft插件 和参与更多开源项目 👋
+### 正在参与开源项目 👋
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=handy-git&locale=zh_CN)
 
 ***
-
-### WIKI
-📚 这是我的WIKI：[https://ricedoc.handyplus.cn/](https://ricedoc.handyplus.cn/#/)
 
 ### I'm ヽ米 饭
 - 💻 生活就是编程，常用java语言

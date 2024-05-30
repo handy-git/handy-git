@@ -1,17 +1,17 @@
-### 正在参与开源项目 👋
+### Contributing to Open Source Projects 👋
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=handy-git&locale=zh_CN)
+![GitHub Streak](https://streak-stats.demolab.com/?user=handy-git)
 
 ***
 
 ### I'm handy
-- 💻 生活就是编程，常用java语言
-- ⚙️ 充满热爱 充满
-- 📖 2024年 我是JAVA程序员
+- 💻 Life is all about coding, mainly using Java
+- ⚙️ Full of passion and enthusiasm
+- 📖 In 2024, I am a JAVA programmer
 
 ***
 
-### 这是我的数据
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=handy-git&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true&locale=cn)
+### Here are my stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=handy-git&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true&locale=en)
 
 ***

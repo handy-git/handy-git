@@ -7,7 +7,7 @@
 ### I'm handy
 - 💻 Life is all about coding, mainly using Java
 - ⚙️ Full of passion and enthusiasm
-- 📖 In 2025, I am a JAVA programmer
+- 📖 In 2026, I am a JAVA programmer
 
 ***
 
